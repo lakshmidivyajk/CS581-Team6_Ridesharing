@@ -9,7 +9,7 @@ Kindly follow the below steps to run the ridesharing algorithm:
 
 1.1.DATABSE SETUP:
 -----------------------
-1.Make sure the MySQL database is set up on your laptop and is working.\\
+1.Make sure the MySQL database is set up on your laptop and is working.\n
 Goto the MySQL command line and do the following:
 2.Create a database by name 'hi' or any name you wish to use.
   If using any name other than 'hi' for database,make sure to change in the openConnection, closeConnection functions of the db1.py,
