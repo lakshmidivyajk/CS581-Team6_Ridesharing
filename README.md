@@ -26,7 +26,6 @@ create table ridesharing_trips(VendorID int(11), tpep_pickup_datetime datetime,t
 
 1.3 RIDESHARING ALGORITHM
 -----------------------------
-
 1. The script files db1.py,databaseConnector.py, type.py and algo.py are all must be copied in the same folder ie same location.<br />
 2.Run the algo.py for the ridesharing algortihm to run.<br />
 3.On the python console in which the code is being run, the results like :<br />
